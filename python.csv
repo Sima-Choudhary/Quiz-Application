@@ -1,0 +1,21 @@
+﻿id,questions,ans,category,a,b,c,d
+1, What is the maximum possible length of an identifier?,b,Python,16,32,64,None of these
+2,Who developed the Python language?,b,Python,Zim Den,Guido van Rossum,Niene Stom, Noneof these
+3,In which year was the Python language developed?,d,Python,1995,1972,1985,1989
+4, In which language is Python written?,b,Python,PHP,C,English,None of these
+5,Which one of the following is the correct extension of the Python file?,a,Python,.py,.python,.pi,.pc
+6,In which year was the Python 3.0 version developed?,a,Python,2008,2010,2000,2015
+7,What do we use to define a block of code in Python language?,c,Python,Key,Brackets,Indentations,None of these
+8,Which character is used in Python to make a single line comment?,c,Python,/,//,#,!
+9,What is the method inside the class in python language?,b,Python,Object,Function,Attribute,Argument
+10,Which of the following is not a keyword in Python language?,,Python,val,raise,try,with
+11,The \u0021 article referred to as a,a,Java,Unicode escape sequence,Octal escape, Hexadecimal, Line feed
+12, _____ is used to find and fix bugs in the Java programs.,d,Java,JVM,JRE,JDK,JDB
+13,What is the return type of the hashCode() method in the Object class?,b,Java,object,int,long,void
+14,Which of the following is a valid long literal?,d,Java,ABH8097,L990023,904423,0xnf029L
+15,Which of the following tool is used to generate API documentation in HTML format from doc comments in source code?,c,Java,javap tool,javaw command,javadoc tool,javah command
+16,"In which process, a local variable has the same name as one of the instance variables?",b,Java,Serialization,Variable Shadowing,Abstraction,Multi-threading
+17,Which of the following is true about the anonymous inner class?,d,Java,It has only methods,Objects can't be created,It has a fixed class name,It has no class name
+18,Which package contains the Random class?,a,Java,java.util package,java.lang package,java.awt package,java.io package
+19,Which of the following is an immediate subclass of the Panel class?, ,Java,applet class,window classFrame class,,Dialog class
+20," In which memory a String is stored, when we create a string using new operator?",c,Java,Stack,String memory,Heap memory,Random storage spce
